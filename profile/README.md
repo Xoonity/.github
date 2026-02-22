@@ -1,12 +1,14 @@
-# **Xoonity | Engineering, IA & Data Solutions**
+# **Xoonity | Engineering, AI & Data Solutions**
 
-Xoonity focuses on building robust digital infrastructures and intelligent systems. Our core expertise lies in streamlining complex operations through:
+Xoonity builds robust digital infrastructures and applied AI systems designed for real-world performance and scalability.
 
-* **Workflows & Automation:** Designing scalable and efficient process architectures.
-* **Agentic AI:** Developing autonomous AI agents capable of specialized task execution.
-* **Data & Analytics:** Transforming raw information into actionable insights through advanced data processing.
+Our expertise focuses on:
+
+* **Workflows & Automation:** Designing scalable, production-ready architectures.
+* **Agentic AI:** Engineering autonomous AI systems and orchestration frameworks.
+* **Data & Analytics:** Turning complex data pipelines into measurable business intelligence.
 
 **Find us at:**
 
-* **[Cosmo-edge](https://cosmo-edge.com):** Infrastructure and high-performance technical solutions.
-* **[Cosmo-games](https://cosmo-games.com):** Data-driven gaming experiences and digital entertainment.
+* **[Cosmo-Edge](https://cosmo-edge.com):** Advanced technical analysis and applied AI insights for CTOs, developers, architects and power users.
+* **[Cosmo-Games](https://cosmo-games.com):** Practical guides, AI tutorials, and high-tech analysis for a broad audience.
